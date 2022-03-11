@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Savitrisun
 - 👀 I’m interested in virtual and augmented reality.
-- 🌱 I’m currently learning 3D maya, swift UI and Xcode.
-- 💞️ I’m looking to collaborate on Xcode & AR converter USDZ 3D objects for iOS.
+- 🌱 I’m currently learning 3D maya, swift UI and Xcode, react native within a inc. company.
+- 💞️ I’m looking to collaborate in react, build an open platform in USDZ 3D mobile objects.
 - 📫 How to reach me : stephanie@templescape.com
 
 <!---
